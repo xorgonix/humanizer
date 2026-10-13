@@ -1,0 +1,14 @@
+pocketflow
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+httpx
+python-dotenv
+sentence-transformers
+torch==2.3.1+cu121
+torchvision==0.18.1+cu121
+torchaudio==2.3.1+cu121
+transformers
+numpy
+
